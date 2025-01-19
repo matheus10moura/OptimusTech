@@ -1,0 +1,17 @@
+@import url(./src/css/header.css);
+
+:root {
+    --cor-principal: #FFFFFF;
+    --cor-texto-principal: #3A404E;
+    --cor-texto-secundaria: #667085;
+    --cor-botao-cadastrar: #8E2424;
+    --cor-texto-botao: #FFFFFF;
+
+    --font-principal: 'Inter'
+}
+
+body {
+    background: var(--cor-principal);
+    font-size: 1.125rem;
+    font-family: var(--font-principal);
+}
