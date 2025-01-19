@@ -25,12 +25,6 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: React.js, HTML5, CSS3  
-- **Backend**: Node.js, Express.js  
-- **Banco de Dados**: MongoDB  
-- **Autenticação**: JWT, OAuth  
-- **Hospedagem**:  
-  - Frontend: Vercel  
-  - Backend: AWS  
+- **Frontend**: HTML5, CSS3  
 
 ---
