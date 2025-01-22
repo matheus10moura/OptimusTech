@@ -1,4 +1,4 @@
-.cabecalho {
+.nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,6 +15,7 @@
 .container_titulo {
     padding-left: 1em;
     color: var(--cor-texto-principal);
+    font-weight: 500;
 }
 
 
@@ -28,6 +29,7 @@
     text-decoration: none;
     color: var(--cor-texto-secundaria);
     font-size: 0.875rem;
+    font-weight: 500;
 }
 
 .container_texto {

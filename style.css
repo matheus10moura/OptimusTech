@@ -1,4 +1,6 @@
 @import url(./src/css/header.css);
+@import url(./src/css/topico.css);
+@import url(./src/css/card.css);
 
 :root {
     --cor-principal: #FFFFFF;
@@ -6,6 +8,11 @@
     --cor-texto-secundaria: #667085;
     --cor-botao-cadastrar: #8E2424;
     --cor-texto-botao: #FFFFFF;
+
+    --cor-texto-topico-secundario: #8E2424;
+    --cor-texto-topico-principal: #101828;
+
+    --cor-fundo-botao: rgba(142,36,36,0.1);
 
     --font-principal: 'Inter'
 }

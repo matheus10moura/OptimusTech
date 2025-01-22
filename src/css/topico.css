@@ -1,0 +1,60 @@
+.cabecalho {
+    display: flex;
+}
+
+.cabecalho_topico {
+    margin: 6vw 23vw;
+}
+
+.cabecalho_texto2 {
+    color: var(--cor-texto-topico-secundario);
+    font-size: 1rem;
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+.cabecalho_titulo {
+    color: var(--cor-titulo-cabecalho);
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0.8em;
+}
+
+.cabecalho_texto {
+    color: var(--cor-texto-secundaria);
+    font-size: 1.125em;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.metricas_container {
+    display: flex;
+    margin: 0 8vw 6vw;
+}
+
+.metrica {
+    margin: 0 2.5vw;
+}
+
+
+.metrica_titulo {
+    color: var(--cor-texto-topico-secundario);
+    margin-bottom: 1vw;
+    font-size: 3.75rem;
+    font-weight: 600;
+}
+
+.metrica_subtitulo {
+    color: var(--cor-texto-topico-principal);
+    font-size: 1.125rem;
+    margin-bottom: 0.8vw;
+    font-weight: 900;
+}
+
+.metrica_texto {
+    color: var(--cor-texto-secundaria);
+    font-weight: 500;
+}
+

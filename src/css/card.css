@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10vw 10vw 0 ;
+}
+
+.card_conteudo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.card_subtitulo {
+    background: var(--cor-fundo-botao);
+    color: var(--cor-botao-cadastrar);
+    font-size: 0.875em;
+    font-weight: 500;
+    padding: 0.5rem;
+    border: 2px solid transparent;
+    border-radius: 10rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.card_titulo {
+    color: var(--cor-texto-topico-principal);
+    font-size: 2.25em;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.card_texto {
+    color: var(--cor-texto-secundaria);
+    font-weight: 400;
+    margin-bottom: 5vw;
+}
+
+.card_imagem {
+    width: 100%;
+}
