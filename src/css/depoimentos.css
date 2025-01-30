@@ -1,0 +1,38 @@
+.depoimentos {
+    background: var(--cor-fundo-botao);
+    margin: 6vw 10vw;
+}
+
+.depoimento {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 4vw;
+}
+
+.depoimento-subtitulo {
+    margin: 4vw 0 1.5vw;
+    color: var(--cor-texto-topico-secundario);
+    font-size: 0.875em;
+    font-weight: 600;
+}
+
+.depoimento-titulo {
+    color: var(--cor-texto-preta);
+    font-size: 2.25em;
+    margin-bottom: 2vw;
+    font-weight: 500;
+}
+
+.depoimento-nome {
+    margin: 1vw 0 0.5vw ;
+    font-weight: 700;
+}
+
+.depoimento-profissao {
+    color: var(--cor-texto-secundaria);
+    font-size: 0.875;
+    font-weight: 400;
+    margin-bottom: 4vw;
+}

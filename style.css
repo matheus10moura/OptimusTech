@@ -1,6 +1,9 @@
 @import url(./src/css/header.css);
 @import url(./src/css/topico.css);
 @import url(./src/css/card.css);
+@import url(./src/css/vagas.css);
+@import url(./src/css/depoimentos.css);
+@import url(./src/css/rodape.css);
 
 :root {
     --cor-principal: #FFFFFF;
@@ -8,9 +11,14 @@
     --cor-texto-secundaria: #667085;
     --cor-botao-cadastrar: #8E2424;
     --cor-texto-botao: #FFFFFF;
+    --cor-borda-cinza: rgba(102, 112, 133, 0.2);
 
     --cor-texto-topico-secundario: #8E2424;
-    --cor-texto-topico-principal: #101828;
+    --cor-texto-preta: #101828;
+
+    --cor-texto2-rodape: #98A2B3;
+    --cor-fundo-secundario: rgba(195, 25, 25);
+    --cor-fundo-terciario: #F9FAFB;
 
     --cor-fundo-botao: rgba(142,36,36,0.1);
 

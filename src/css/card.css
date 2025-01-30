@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin: 10vw 10vw 0 ;
+    margin: 10vw 10vw 5vw;
 }
 
 .card_conteudo {

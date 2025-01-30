@@ -1,0 +1,33 @@
+
+.vagas h2 {
+    color: var(--cor-texto-preta);
+    font-weight: 500;
+    font-size: 1.25em;
+    margin: 3vw 30vw 2vw;
+}
+
+.vaga {
+    display: flex;
+    flex-direction: column;
+    margin: 2vw 31vw;
+    padding: 1.5rem;
+    border: 1px solid var(--cor-borda-cinza);
+    border-radius: 10px;
+}
+
+.vaga .titulo-vaga {
+    color: var(--cor-texto-preta);
+    font-weight: 500;
+    font-size: 1.125em;
+    margin-bottom: 1%;
+}
+
+.vaga .informacoes {
+    display: flex;
+}
+
+.vaga .informacoes span{
+    color: var(--cor-texto-secundaria);
+    font-weight: 500;
+    margin: 1vw 1vw 0 0;
+}
